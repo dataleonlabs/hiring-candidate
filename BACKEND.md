@@ -14,7 +14,7 @@ https://docs.microsoft.com/bs-cyrl-ba/azure///cognitive-services/luis/luis-get-s
 You can use it to make the request. the documentation is always in English with us!
 If the test is conclusive, we will see later for a second interview with the CTO.
 
-To return for the end of the week
+To return **the github link** for the end of the week
 Best regards
 
 ## Contribute
