@@ -20,7 +20,7 @@ If yes
 If not
 - Show the answer: Damn!
 
-To return for the end of the week
+To return **the github link** for the end of the week
 Best regards
 
 ## Contribute
