@@ -1,22 +1,19 @@
 # FRONTEND Candidate testing
 Hello,
-
 To validate your technical level, we need you to make a very simple technical Exo.
 
-The goal
+## The goal
 this technical EXO is to know if you have the minimum level to join the team.
-
 The Exo, a game Questions / Answers.
-
 In Back-end, API NodeJS
 An API in NodeJS that allows to load 1 question and 2 answers in the form of JSON
 
-## Data (array or object of your choice)
+### Data (array or object of your choice)
 - Do you like React? (Question)
 - Good choice ! (Reply)
 - Damn ! (Reply)
 
-## Playing the game under React and TypeScript
+### Playing the game under React and TypeScript
 - Do you like React? (Choice Yes / No)
 If yes
 - Show the answer: Good choice!
@@ -24,7 +21,6 @@ If not
 - Show the answer: Damn!
 
 To return for the end of the week
-
 Best regards
 
 ## Contribute
