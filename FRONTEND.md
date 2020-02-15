@@ -1,4 +1,4 @@
-# FRONTEND Candidate testing
+# Frontend candidate testing
 Hello,
 To validate your technical level, we need you to make a very simple technical Exo.
 
