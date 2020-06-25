@@ -16,8 +16,6 @@ https://arxiv.org/pdf/1903.12363.pdf
 - Use tensorflow, keras, numpy, pytorch 
 - Document your code with markdown, step per step.
 
-##### Atention, you need detect automatically amount ttc wit this approach, not static extracting
-
 ### Datasets:
 The link of receipts datasets (1000):
 https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/
