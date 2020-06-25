@@ -17,7 +17,7 @@ https://arxiv.org/pdf/1903.12363.pdf
 - Document your code with markdown, step per step.
 
 ### Datasets:
-The link of receipts datasets (1000):
+The link of receipts datasets (200):
 https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/
 
 ### Result:
