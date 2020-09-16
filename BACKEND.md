@@ -4,7 +4,7 @@ Back-end - testing cases
 I invite you first to look at our website to learn more about our company youngapp.co
 
 The idea:
-- Create a NodeJS / TypeScript OOP class to retrieve intent from the Machine Learning LUIS engine
+- Create a NodeJS / TypeScript OOP class or Python Class to retrieve intent from the Machine Learning LUIS engine
 - Make sure to write the TypeScript test
 - Make sure to write the tests with mochajs and SinonJS for function mocking
 - I introduced an example in the documentation
