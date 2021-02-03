@@ -1,6 +1,6 @@
 # Data science - Candidate testing
 
-### Extract total amount TTC on receipt document
+### Detect total amount TTC on receipt document
 
 We invite you first to look at our website to learn more about our company youngapp.co
 
