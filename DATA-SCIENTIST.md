@@ -16,7 +16,8 @@ https://arxiv.org/pdf/1903.12363.pdf
 
 ### Datasets:
 The link of receipts datasets (200):
-https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/
+- https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/
+- https://github.com/clovaai/cord
 
 ### Result:
 The documentation is always in English with us!
