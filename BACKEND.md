@@ -1,9 +1,10 @@
-# Backend Candidate testing
+# Python Candidate testing
 Back-end - testing cases
 
 I invite you first to look at our website to learn more about our company dataleon.ai
 
 The idea:
+- Create account on Azure and keep API Key
 - Create a Python Class to retrieve intent from the Machine Learning LUIS engine
 - Make sure to write the Python test
 - Make sure to write the tests with pytest
