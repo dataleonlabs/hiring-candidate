@@ -7,7 +7,6 @@ The idea:
 - Create account on Azure and keep API Key
 - Create a Python Class to retrieve intent from the Machine Learning LUIS engine
 - Make sure to write the Python test
-- Make sure to write the tests with pytest
 - I introduced an example in the documentation
 - Write readme
 
