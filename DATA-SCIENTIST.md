@@ -6,7 +6,7 @@ We invite you first to look at our website to learn more about our company young
 ### Importants points:
 - Follow deep learning approach for detect total amount TTC on receipt document
 - Write your notebooks or Google Colab in Python
-- Use Transforms deep learning algorithm approach
+- Use Transforms deep learning algorithm approach with LayoutLMv3
 - Use pytorch framework
 - Document your code with markdown, step per step.
 
