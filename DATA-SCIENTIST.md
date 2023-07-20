@@ -1,6 +1,6 @@
 # Data science - Candidate testing
 
-### Detect total amount TTC on receipt document with Computer Vision approach
+### Detect total amount TTC on receipt document with Transforms approach
 We invite you first to look at our website to learn more about our company youngapp.co
 
 ### Importants points:
