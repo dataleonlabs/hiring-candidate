@@ -5,7 +5,7 @@ I invite you first to look at our website to learn more about our company datale
 
 The idea:
 - Create account on Azure and keep API Key
-- Create a Python Class to retrieve intent from the Machine Learning LUIS engine
+- Create a Python Class to retrieve intent from the Machine Learning "Conversational Language Understanding" engine
 - Write in pytest differents intents from recipe cooking
 - Make sure to write the Python test with pytest
 - Write ReadME for using
