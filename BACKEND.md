@@ -7,7 +7,6 @@ The idea:
 - Use model https://huggingface.co/TahaDouaji/detr-doc-table-detection
 - Create a Python Class to to predict on invoice and bank document image
 - Write in pytest differents scenarios success extraction or error extraction table on bank document or invoice document
-- Use docker container for install package
 - Make sure to write the Python test with pytest
 - Write ReadME for using
 
